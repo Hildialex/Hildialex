@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hildialex
-- 👀 I’m interested in good things
-- 🌱 I’m currently learning python again
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learn as much as possible and teach others!
+- 💞️ I’m looking to collaborate on people's growth.
+- 📫 How to reach me @hildialex7
 
 <!---
 Hildialex/Hildialex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
